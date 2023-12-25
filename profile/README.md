@@ -1,6 +1,6 @@
 # eSoftHub
 
-![eSoftHub Logo](link-para-o-logo.png)
+COLOCAR LOGO AQUI DEPOIS
 
 **Significado:**
 "eSoftHub" é uma fusão de "e" (eletrônico) e "Soft" (softwares), indicando uma empresa centrada em soluções de software inovadoras e eletrônicas. O termo "Hub" sugere um centro de convergência, simbolizando a reunião de ideias, tecnologias e pessoas para criar um ambiente colaborativo e inovador.
