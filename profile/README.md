@@ -28,6 +28,6 @@ Confira alguns dos nossos projetos e clientes destacados:
 - [Projeto B](link-para-projeto-b): Descrição breve do projeto e link para mais detalhes.
 - ...
 
-Para obter mais informações sobre nossos projetos e clientes, visite [nosso portfólio completo](link-para-portfolio).
+Para obter mais informações sobre nossos projetos e clientes, visite [nosso site](link-para-portfolio).
 
 A eSoftHub está empenhada em ser uma força propulsora na revolução digital, capacitando organizações e indivíduos a prosperar em um mundo cada vez mais conectado e digital.
