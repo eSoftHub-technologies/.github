@@ -1,6 +1,5 @@
 
-![eSoftHub](https://github.com/eSoftHub-technologies/.github/blob/main/profile/Logo.jpeg?raw=true)
-
+# *eSoftHub*
 ## Visão
 A eSoftHub aspira a ser o epicentro da inovação tecnológica, fornecendo soluções de software de ponta que transformam digitalmente negócios e experiências. Buscamos criar um hub dinâmico, onde mentes criativas se encontram para impulsionar o progresso tecnológico e desbloquear o potencial máximo da era digital.
 
